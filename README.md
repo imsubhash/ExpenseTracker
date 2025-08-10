@@ -94,25 +94,29 @@ I extensively used Claude AI and GitHub Copilot throughout the development proce
 
 ## Screenshots
 
-### Main Dashboard
-![Dashboard] ![Screenshot_20250810_191500.png](screenshots/Screenshot_20250810_191500.png)
-*Clean overview of expenses with quick stats and recent transactions*
-
-### Add Expense
-![Add Expense] ![Screenshot_20250810_191623.png](screenshots/Screenshot_20250810_191623.png)
+### Main Dashboard & Add Expense
+<p float="left">
+  <img src="screenshots/Screenshot_20250810_191500.png" alt="Dashboard" width="360" />
+  <img src="screenshots/Screenshot_20250810_191623.png" alt="Add Expense" width="360" />
+</p>
+*Clean overview of expenses with quick stats and recent transactions*  
 *Intuitive expense input form with category selection and validation*
 
-### Analytics
-![Analytics]![Screenshot_20250810_191642.png](screenshots/Screenshot_20250810_191642.png)
-*Interactive charts showing spending patterns and budget insights*
-
-### Expense List
-![Expense List]![Screenshot_20250810_191634.png](screenshots/Screenshot_20250810_191634.png)
+### Analytics & Expense List
+<p float="left">
+  <img src="screenshots/Screenshot_20250810_191642.png" alt="Analytics" width="360" />
+  <img src="screenshots/Screenshot_20250810_191634.png" alt="Expense List" width="360" />
+</p>
+*Interactive charts showing spending patterns and budget insights*  
 *Comprehensive list view with search, filter, and sorting options*
 
 ### Settings & Themes
-![Settings]![Screenshot_20250810_191511.png](screenshots/Screenshot_20250810_191511.png)
+<p float="left">
+  <img src="screenshots/Screenshot_20250810_191511.png" alt="Settings" width="360" />
+</p>
 *Theme customization and app preferences*
+
+
 
 
 ## Tech Stack
