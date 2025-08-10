@@ -85,7 +85,8 @@ I extensively used Claude AI and GitHub Copilot throughout the development proce
 - [x] CI/CD Pipeline Setup
 
 ## APK Download
-📱 **[Download Latest APK v1.2.0](https://github.com/yourusername/expense-tracker/releases/download/v1.2.0/expense-tracker-v1.2.0.apk)**
+📱 **[Download Latest APK v1.2.0]**
+[app-debug.apk](app-debug.apk)
 
 *Minimum Android Version: 7.0 (API 24)*  
 *Target Android Version: 14 (API 34)*  
@@ -94,28 +95,25 @@ I extensively used Claude AI and GitHub Copilot throughout the development proce
 ## Screenshots
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard] ![Screenshot_20250810_191500.png](screenshots/Screenshot_20250810_191500.png)
 *Clean overview of expenses with quick stats and recent transactions*
 
 ### Add Expense
-![Add Expense](screenshots/add_expense.png)
+![Add Expense] ![Screenshot_20250810_191623.png](screenshots/Screenshot_20250810_191623.png)
 *Intuitive expense input form with category selection and validation*
 
 ### Analytics
-![Analytics](screenshots/analytics.png)
+![Analytics]![Screenshot_20250810_191642.png](screenshots/Screenshot_20250810_191642.png)
 *Interactive charts showing spending patterns and budget insights*
 
 ### Expense List
-![Expense List](screenshots/expense_list.png)
+![Expense List]![Screenshot_20250810_191634.png](screenshots/Screenshot_20250810_191634.png)
 *Comprehensive list view with search, filter, and sorting options*
 
 ### Settings & Themes
-![Settings](screenshots/settings.png)
+![Settings]![Screenshot_20250810_191511.png](screenshots/Screenshot_20250810_191511.png)
 *Theme customization and app preferences*
 
-### Budget Management
-![Budget](screenshots/budget_management.png)
-*Set budgets by category and track spending limits*
 
 ## Tech Stack
 
@@ -225,12 +223,9 @@ app/
 ## Contributing
 Pull requests are welcome! Please read our contributing guidelines and ensure all tests pass.
 
-## License
-MIT License - see LICENSE.md for details
-
 ---
 
-**Developer:** [Your Name]  
-**Contact:** [your.email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile]  
-**Portfolio:** [yourwebsite.com]
+**Developer:** [Subhash Kumar]  
+**Contact:** [skumar.iiita@gmail.com]  
+**LinkedIn:** [https://www.linkedin.com/in/imsubhash/]  
+**Portfolio:** [https://the-simplefolio.netlify.app/]
